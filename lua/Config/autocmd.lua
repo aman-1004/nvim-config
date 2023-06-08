@@ -1,0 +1,2 @@
+-- local indent_proper_autocmd = 'autocmd BufWritePost * :normal H=T<C-o>'
+-- vim.api.nvim_command(indent_proper_autocmd)
